@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/34242963/README.md)
 # RigolPlot
 
 Даталоггер для осциллографа **Rigol DHO800/900** (DHO914S/DHO924S и аналоги) через SCPI по TCP/VXI-11. Файл исходника, Windows, WinForms, .NET Framework 4.x.
